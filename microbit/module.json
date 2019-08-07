@@ -1,0 +1,11 @@
+{
+  "name": "toggl-cube",
+  "version": "0.0.1",
+  "description": "BLE device for time tracking",
+  "license": "MIT",
+  "dependencies": {
+    "microbit": "lancaster-university/microbit#v2.0.0-rc11"
+  },
+  "targetDependencies": {},
+  "bin": "./source"
+}
